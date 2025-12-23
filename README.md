@@ -12,8 +12,10 @@ AI Русификация логотипа и обложек всей серии
 
 # Горизонтальные обложки
 <img width="460" height="215" alt="header" src="https://github.com/user-attachments/assets/39c98bf9-c665-43a9-a59a-1064e2fd5007" />
-![header](https://github.com/user-attachments/assets/16e0fcae-7230-4c87-a301-3470003e5e46)
-![header](https://github.com/user-attachments/assets/1c1d4ead-dc29-43e2-92d9-cd54e05adb7e)
 
+![header](https://github.com/user-attachments/assets/7fc9cd80-9e77-4342-9d8a-7bb9d928669a)
 
+![header](https://github.com/user-attachments/assets/f75c8e35-a7ef-465c-a92f-f563cfaea807)
 
+# Спасибо за просмотр!
+Если понравилось поставьте звёздочку.
